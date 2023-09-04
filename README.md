@@ -1,7 +1,7 @@
 # Movie
  Movie Ticket Booking System
  Front End Screenshots:
- ![image](https://github.com/suvee-1339/movie/assets/94752841/48cb07ae-373e-4a1e-be0e-204a325c3f50)
+ 
  
  ![image](https://github.com/suvee-1339/movie/assets/94752841/1fa42f0b-bbee-487f-9e44-f833c30a09b9)
  
